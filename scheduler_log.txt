@@ -1,0 +1,9 @@
+2026-03-22 15:38:02 [ADMIN] New Pending jobs file made after none was find.
+2026 -03 -22 15:39:07 100, Task, 8, 10
+Priority Scheduling 
+2026 -03 -22 15:39:26 900, Word, 10, 7
+Priority Scheduling 
+2026-03-22 15:40:05 [ADMIN] Job queue has been initiated
+2026-03-22 15:40:25 [ADMIN] Current jobs queue transfered from pending jobs to completed jobs logs
+2026-03-22 15:40:25 [ADMIN] Pending Job has been cleared
+2026-03-22 15:41:42 [ADMIN] Completed Jobs Logs Accessed

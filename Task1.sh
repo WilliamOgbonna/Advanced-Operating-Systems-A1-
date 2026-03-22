@@ -12,6 +12,10 @@ system_usage() {
     echo "Current CPU and Memory Usage"
     top -bn1 
     echo 
+
+    echo 
+    free -h 
+    echo
     log_adminactions "System CPU and Memory Usage shown"
 }
 
