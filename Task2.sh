@@ -180,7 +180,7 @@ display_menu() {
 
 main() {
 
-    #Creating all the files needed upon porgrma start 
+    #Creating all the files needed upon porgram start 
     touch "$JOB_QUEUE"
     touch "$SCHEDULERS_LOG"
     touch "$COMPLETED_JOBS"

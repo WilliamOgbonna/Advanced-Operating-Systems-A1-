@@ -1,0 +1,31 @@
+2026-03-22 21:14:58 [ADMIN] Failed login attempt no. 1
+2026-03-22 21:15:11 [ADMIN] User logged in
+2026-03-22 21:15:31 [ADMIN] File not found in directory
+2026-03-22 21:17:28 [ADMIN] File not found in directory
+2026-03-22 21:23:01 [ADMIN] User logged in
+2026-03-22 21:23:15 [ADMIN] Submission cancelled due to non-integer entry from user
+2026-03-22 21:23:36 [ADMIN] File not found in directory
+2026-03-22 21:26:27 [ADMIN] User logged in
+2026-03-22 21:26:37 [ADMIN] File not found in directory
+2026-03-22 21:29:25 [ADMIN] User logged in
+2026-03-22 21:31:57 [ADMIN] User logged in
+2026-03-22 21:33:12 [ADMIN] User logged in
+2026-03-22 21:33:23 [ADMIN] File not found in directory
+2026-03-22 21:42:57 [ADMIN] User logged in
+2026-03-22 21:43:25 [ADMIN] File not found in directory
+2026-03-22 21:44:04 [ADMIN] File not found in directory
+2026-03-22 21:44:27 [ADMIN] User logged in
+2026-03-22 21:44:47 [ADMIN] Submission of firsttestdoc.pdf for StudentID 802 has been completed
+2026-03-22 21:54:05 [ADMIN] User logged in
+2026-03-22 21:54:45 [ADMIN] Submission of secondtest.docx for StudentID 890 has been completed
+2026-03-22 21:57:48 [ADMIN] User logged in
+2026-03-22 21:58:10 [ADMIN] No Files with duplicate names have been found
+2026-03-22 22:00:35 [ADMIN] User logged in
+2026-03-22 22:02:31 [ADMIN] User logged in
+2026-03-22 22:03:57 [ADMIN] User logged in
+2026-03-22 22:04:13 [ADMIN] Submission Logs Accessed
+2026-03-22 22:06:11 [ADMIN] User logged in
+2026-03-22 22:08:34 [ADMIN] Submission cancelled of photo.webp for StudentID 560 due to unsupported file type
+2026-03-22 22:12:41 [ADMIN] Submission cancelled of Largephoto.png for StudentID 856 due to unsupported file type
+2026-03-22 22:15:43 [ADMIN] User logged in
+2026-03-22 22:15:58 [ADMIN] Submission cancelled of largedoc.pdf for StudentID 543 due to large file
