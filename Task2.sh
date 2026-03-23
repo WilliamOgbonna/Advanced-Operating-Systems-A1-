@@ -18,7 +18,7 @@ show_pending_jobs(){
     if [[ -f "job_queue.txt" ]]; then
         echo "Pending Jobs"
         cat "job_queue.txt"
-        login_actions "Pending Jobs Logs Accessed"
+        log_actions "Pending Jobs Logs Accessed"
     else
         #Output if no file found
         echo "No current pending jobs file is found. One will be made shortly"
@@ -78,7 +78,7 @@ submit_request() {
     
 
 process_job_queue() {
-    
+
     #User inputs their studentID for search
     read -rp "Enter your student ID, when done press Enter: " id 
     
@@ -94,10 +94,11 @@ process_job_queue() {
     while IFS=',' read -r id jobname exetime priority; do
         #Outputs a message while in progress
         echo "Currently proccesing job" 
-        
+
         #Acts As Execution Time Delay
+
         sleep "$exetime"
-        
+
         #Conformation message for completing job
         echo "StudentID $id - Job: $jobname has been completed" 
     done 
@@ -113,7 +114,7 @@ process_job_queue() {
     > "$PENDING_JOBS"
     echo "Pending Job log has been cleared"
     log_actions "Pending Job has been cleared"
-    
+
     else 
 
     #Output for studnetID that isnt found in pending jobs 
@@ -122,7 +123,7 @@ process_job_queue() {
     return 
 
     fi
-
+    
 }
 
 

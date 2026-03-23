@@ -29,3 +29,24 @@
 2026-03-22 22:12:41 [ADMIN] Submission cancelled of Largephoto.png for StudentID 856 due to unsupported file type
 2026-03-22 22:15:43 [ADMIN] User logged in
 2026-03-22 22:15:58 [ADMIN] Submission cancelled of largedoc.pdf for StudentID 543 due to large file
+2026-03-23 06:16:52 [ADMIN] User logged in
+2026-03-23 06:17:48 [ADMIN] Submission of firsttestdoc.pdf for StudentID 900 has been completed
+2026-03-23 06:40:09 [ADMIN] User logged in
+2026-03-23 06:44:12 [ADMIN] User logged in
+2026-03-23 06:44:47 [ADMIN] User logged in
+2026-03-23 06:45:41 [ADMIN] File with submission to duplicate name
+2026-03-23 07:05:35 [ADMIN] Submission Logs Accessed
+2026-03-23 07:06:29 [ADMIN] Submission of firsttestdoc.pdf for StudentID 900 has been completed
+2026-03-23 07:41:50 [ADMIN] User logged in
+2026-03-23 07:47:11 [ADMIN] Failed login attempt no. 1
+2026-03-23 07:47:21 [ADMIN] Failed login attempt no. 2
+2026-03-23 07:47:54 [ADMIN] Failed login attempt no. 3
+2026-03-23 07:47:54 [ADMIN] User had three login attempts within a minute
+2026-03-23 07:48:16 [ADMIN] Failed login attempt no. 4
+2026-03-23 07:48:16 [ADMIN] User has been locked out due to login attempt limit
+2026-03-23 08:03:56 [ADMIN] Failed login attempt no. 1
+2026-03-23 08:04:13 [ADMIN] Failed login attempt no. 2
+2026-03-23 08:04:28 [ADMIN] User logged in
+2026-03-23 08:04:57 [ADMIN] Submission cancelled of photo.webp for StudentID 780 due to unsupported file type
+2026-03-23 08:06:41 [ADMIN] Submission cancelled of largedoc.pdf for StudentID 988 due to Large file
+2026-03-23 08:38:13 [ADMIN] Submission Logs Accessed

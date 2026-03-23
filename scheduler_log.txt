@@ -7,3 +7,14 @@ Priority Scheduling
 2026-03-22 15:40:25 [ADMIN] Current jobs queue transfered from pending jobs to completed jobs logs
 2026-03-22 15:40:25 [ADMIN] Pending Job has been cleared
 2026-03-22 15:41:42 [ADMIN] Completed Jobs Logs Accessed
+2026-03-23 03:30:22 [ADMIN] Pending Jobs Logs Accessed
+2026 -03 -23 03:33:04 890, Research, 8, 10
+Priority Scheduling 
+2026-03-23 03:34:23 [ADMIN] Pending Jobs Logs Accessed
+2026-03-23 03:50:19 [ADMIN] Completed Jobs Logs Accessed
+2026 -03 -23 04:28:50 763, Editing, 8, 4
+Priority Scheduling 
+2026-03-23 04:30:03 [ADMIN] Job queue has been initiated
+2026-03-23 04:30:20 [ADMIN] Current jobs queue transfered from pending jobs to completed jobs logs
+2026-03-23 04:30:20 [ADMIN] Pending Job has been cleared
+2026-03-23 04:47:00 [ADMIN] Scheduler Logs Accessed
